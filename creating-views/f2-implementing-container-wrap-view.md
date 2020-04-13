@@ -23,7 +23,7 @@ Add more properties container-specific properties to the `View` class if needed.
 
 ### HTML Rendering
 
-In the parent view template, render views from the calculated property and if needed, add a wrapper element around each child view. 
+In the parent view template, render views from the calculated property and if needed, add a wrapper element around each child view. Only render wrapper element if child view's `empty` property is not set.
 
 ### Resize Behavior
 
