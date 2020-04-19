@@ -1,3 +1,3 @@
-# Creating Web Components
+# Creating Views
 
 {{ child_pages }}

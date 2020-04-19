@@ -8,8 +8,8 @@ Feature topics should answer these questions:
 * [if you have] examples
 * [if there are viable alternatives] why this way
 
-`*` in feature title means "incomplete".
+`?` in feature title means "incomplete".
 
 Contents:
 
-{{ child_pages }}
+{{ child_pages depth="1" }}

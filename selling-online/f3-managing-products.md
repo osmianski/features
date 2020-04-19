@@ -1,3 +1,3 @@
-# `f3` * Managing Products
+# `f3` ? Managing Products
 
 TODO
